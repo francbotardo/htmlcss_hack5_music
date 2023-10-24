@@ -18,3 +18,8 @@ TEXT: música Club
 MAIN BACKGROUND
 
 COLOR: #5CE1E6
+
+
+font-family: 'Anonymous Pro', monospace;
+font-family: 'Anton', sans-serif;
+font-family: 'Bebas Neue', sans-serif;
